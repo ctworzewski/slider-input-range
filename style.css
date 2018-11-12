@@ -1,0 +1,16 @@
+body {
+    height: 100vh;
+    max-width: 1600px;
+}
+.box-images {
+    position: relative;
+    text-align: center;
+    margin: 0 auto;
+}
+.box-images img {
+    position: absolute;
+}
+
+.first2 {
+    width: 30%;
+}
